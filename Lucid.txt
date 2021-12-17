@@ -1,0 +1,88 @@
+Expleo
+Timesheet
+intranet: http://swcoins101.sqs-bfsi.com:8020/tsuser
+internet: https://hourglass.esl-bfsi.com:8001
+
+Attendance
+https://hrmax.myadrenalin.com/azureauth
+
+Emp id: TG4887
+email ID: Dharanibabu.Balakrishnan@expleogroup.com
+Password: Start@123
+
+Payslip
+https://www.tibs.in/tanqaa
+user: tg4887
+Company: EXPLEO
+Password: Dharani@123
+PAN: AYTPD4830A
+UAN: 100658769801
+PF Ac no: TN/49417/TNMAS00494170000014985
+Aadhar: 411241294118  /  DHARANI BABU B
+Number: 89251 37209
+
+Saravanan : HR - 98846 88620
+Tecnical Project manager: Gokul - Last year Oct joined - 
+Service delivery: Harish Kotta
+Business Analyst: Karthikeyan palanyswamy
+Maharajan or Karthick: Admin side
+
+Bbid remediation
+https://192.168.169.54
+user name : bigid
+pw: Bigid@123
+
+Git & Vpn access
+Username - dharanib
+Passwd - Lucid@2021
+
+Email
+User: dharanib@lucid-green.com
+Pass: Dharani@123
+
+Developement TL
+Tamizh
+
+Backend Developer
+Hari
+Rajshekar
+
+UI
+Amit 
+Om
+
+Karthi
+Business analyst
+
+Technical/Project/Delivery
+Gokul
+
+QA
+Kiran
+
+
+//*[@id="root"]/main/div[2]/div/div[2]/div[2]/div[2]/div[1]/div/div[2]/div/div/div/input
+
+name="Test1"
+
+
+//input[@name='structureLowFrom']
+//input[@name='structureLowTo']
+//input[@name='structureMediumFrom']
+//input[@name='structureMediumTo']
+//input[@name='structureHighFrom']
+
+Checkbox
+//span[@data-aid='BigidCheckbox']/child::span[@class='MuiIconButton-label']/input
+
+//input[@name='unstructureLowFrom']
+//input[@name='unstructureLowTo']
+//input[@name='unstructureMediumFrom']
+//input[@name='unstructureMediumTo']
+//input[@name='unstructureHighFrom']
+
+
+
+Javascriptexecutor js = (Javascriptexecutor)driver;
+js.executescript(arguments[0].value='""',)
+
